@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33042576392",
+    "project_id": "ig-clone-fero",
+    "storage_bucket": "ig-clone-fero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33042576392:android:0751b9ae61f384a2368dbd",
+        "android_client_info": {
+          "package_name": "se.pixolity.instagram_clone_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33042576392-qb2kah4h533kkprlfqd7b5ia0d50q5p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgbZfthfNQeognRAC7Hd8DxFoZdnaG5Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33042576392-qb2kah4h533kkprlfqd7b5ia0d50q5p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
